@@ -1,0 +1,8 @@
+1. insert into school (id, school_code, school_name, inaugurated_date) 
+			values(5, 'SCH05', 'school mno', '2020-01-25')
+
+2. insert into tbl_testide (id, school_code, school_name, inaugurated_date) 
+			values(5, 'SCH05', 'school mno', '2020-01-25')
+
+Penjelasan: 
+di soal tes tabel di tulis school sedangkan di database saya tabel bernama tbl_testide

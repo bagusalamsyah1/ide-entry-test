@@ -1,0 +1,1 @@
+tempat meletakan dua koneksi database di folder config/database.php

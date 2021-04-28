@@ -1,0 +1,1 @@
+kegunaan file .env dan directory config pada struktur laravel untuk memudahkan dalam mengubah pengaturan yang ingin kita sesuaikan dengan project aplikasi yang di buat dan semua konfigurasi dapat di atur dalam satu folder config

@@ -1,0 +1,7 @@
+1. membuat repository dengan create repository
+2. buka git bash pada komputer
+3. ketikan git init lalu
+4 ketikan git add
+5. setelah itu ketikan git commit untuk menamai repository
+6. setelah itu ketikan git remote add pada repository kita
+7. kemudian ketikan git push untuk mengupload repository ke dalam akun github

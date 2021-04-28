@@ -1,0 +1,5 @@
+1. wrapper adalah sebuah element untuk membungkus seluruh element html dan css
+2. box adalah sebuah element untuk membuat kotak pada element html dan css
+3. width merupakan property berfungsi untuk mengatur ukuran lebar sebuah Tag / Element HTML, 
+    sedangkan height merupakan property berfungsi untuk mengatur ukuran tinggi sebuah Tag / Element HTML.
+4. border solid berfungsi sebagai garis yang dipertebal

@@ -1,0 +1,7 @@
+1. pergi ke halaman repository yang ingin di push
+2. cari menu branch lalu pilih branch yang mengandung commit
+3. klik tombol hijau compare and review
+4. kemudian Halaman compare akan otomatis membandingkannya cabang dari implementasi dan cabang yang akan digabung. 
+ dan melihat hasil pembandingannya. Jika sudah, tekan tombol Create pull request
+5. lalu membuat judul dan deskripsi dari pull request dan setelahnya tekan tombol Create pull request
+6. jika permintaan sudah disetujui maka request akan muncul di repository
